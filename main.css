@@ -31,12 +31,6 @@ margin-top: 10px;
 display: flex;
 flex-direction: column;
 }
-/* .text-area{
-    height: 28px;
-    text-decoration: none;
-    outline: none;
-    width: auto;
-} */
 h1{
     text-shadow: -1px 1px 3px rgba(0, 0, 0, 0.83);
 }
